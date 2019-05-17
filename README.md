@@ -27,3 +27,5 @@ Documentation: https://remingtongraphics.net/tools/d-noise/
 
 ### **Acknowledgements**
 Special thanks to Declan Russell for sharing his standalone NVIDIA AI Denoiser and Deep Blender for sharing his normal conversion script. Also, massive thanks to everyone who helped in beta testing!
+
+J'ai modifié
